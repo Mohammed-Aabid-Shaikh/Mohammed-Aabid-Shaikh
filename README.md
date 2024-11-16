@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on College's Project **Online Learning System**
+- 🔭 I’m currently working on College's Project **Online Learning Management System**
 
 - 🌱 I’m currently learning **Django, UI/UX**
 
