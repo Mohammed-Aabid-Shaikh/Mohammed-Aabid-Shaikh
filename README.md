@@ -1,4 +1,4 @@
-![logo](https://github.com/Mohammed-Aabid-Shaikh/Mohammed-Aabid-Shaikh/blob/main/Banner.jpg)
+![logo](https://github.com/Mohammed-Aabid-Shaikh/Mohammed-Aabid-Shaikh/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Aabid Shaikh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
