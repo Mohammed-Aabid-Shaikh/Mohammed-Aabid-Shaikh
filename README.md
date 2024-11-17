@@ -1,6 +1,6 @@
 ![logo](https://github.com/Mohammed-Aabid-Shaikh/Mohammed-Aabid-Shaikh/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Aabid Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="codding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
