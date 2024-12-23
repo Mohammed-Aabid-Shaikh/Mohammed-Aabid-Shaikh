@@ -49,22 +49,22 @@ Here are a couple of my cool projects:
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-aabid-shaikh&show_icons=true&locale=en&layout=compact" alt="mohammed-aabid-shaikh" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohammed-aabid-shaikh&show_icons=true&locale=en" alt="mohammed-aabid-shaikh" />
 </div>
 
 ---
 
 ## 🔥 GitHub Streak:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohammed-aabid-shaikh&show_icons=true&locale=en" alt="mohammed-aabid-shaikh" />
-</p>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-aabid-shaikh&" alt="mohammed-aabid-shaikh" />
+</div>
 
 ---
 
 ## 💬 Most Used Languages:
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-aabid-shaikh" alt="mohammed-aabid-shaikh" />
-</p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-aabid-shaikh&show_icons=true&locale=en&layout=compact" alt="mohammed-aabid-shaikh" />
+</div>
 
 ---
 
