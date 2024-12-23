@@ -63,7 +63,7 @@ Here are a couple of my cool projects:
 
 ## 💬 Most Used Languages:
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-aabid-shaikh&" alt="mohammed-aabid-shaikh" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-aabid-shaikh" alt="mohammed-aabid-shaikh" />
 </p>
 
 ---
